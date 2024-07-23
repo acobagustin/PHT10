@@ -1,0 +1,42 @@
+Make a directory
+mkdir [directory-name]
+
+Delete a directory
+rmdir [directory-name]
+
+list all the files and folders
+ls 
+
+Change a directory
+cd [directory-name]
+
+create a files
+touch [filename.filename ext]
+
+Delete a file
+rm [filename.extension]
+
+Agustin Acob@SWITCHMEDIA-LT01 MINGW64 ~/Documents/PHT10
+$ git config --global user.name "acobagustin"
+Agustin Acob@SWITCHMEDIA-LT01 MINGW64 ~/Documents/PHT10
+$ git config user.name
+acobagustin
+Agustin Acob@SWITCHMEDIA-LT01 MINGW64 ~/Documents/PHT10
+$ git config --global user.email "acob.agustin@gmail.com"
+Agustin Acob@SWITCHMEDIA-LT01 MINGW64 ~/Documents/PHT10
+$ git config user.email
+acob.agustin@gmail.com
+Agustin Acob@SWITCHMEDIA-LT01 MINGW64 ~/Documents/PHT10
+$ git init
+Initialized empty Git repository in C:/Users/Agustin Acob/Documents/PHT10/.git/
+Agustin Acob@SWITCHMEDIA-LT01 MINGW64 ~/Documents/PHT10 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        1 - Mastering CLI/
+
+nothing added to commit but untracked files present (use "git add" to track)
