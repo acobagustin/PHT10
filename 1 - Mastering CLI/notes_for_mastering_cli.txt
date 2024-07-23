@@ -40,3 +40,25 @@ Untracked files:
         1 - Mastering CLI/
 
 nothing added to commit but untracked files present (use "git add" to track)
+Agustin Acob@SWITCHMEDIA-LT01 MINGW64 ~/Documents/PHT10 (master)
+$ git add .
+Agustin Acob@SWITCHMEDIA-LT01 MINGW64 ~/Documents/PHT10 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   1 - Mastering CLI/notes_for_mastering_cli.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   1 - Mastering CLI/notes_for_mastering_cli.txt
+Agustin Acob@SWITCHMEDIA-LT01 MINGW64 ~/Documents/PHT10 (master)
+$ git commit -m "Created notes.txt for mastering CLI"
+[master (root-commit) 1625ddc] Created notes.txt for mastering CLI
+ 1 file changed, 42 insertions(+)
+ create mode 100644 1 - Mastering CLI/notes_for_mastering_cli.txt
+ 
