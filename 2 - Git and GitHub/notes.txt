@@ -17,3 +17,4 @@ git add . or git notes.txt
 
 - Create a commit
 git commit -m "This is the description."
+
